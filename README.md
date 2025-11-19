@@ -3,7 +3,7 @@
 <html>
 <body>
 
-<h1 style="colour:red">This is a Heading</h1>
+<p style="colour:red">This is a Heading</p>
 <p>This is a paragraph.</p>
 
 </body>
