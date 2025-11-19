@@ -1,1 +1,16 @@
+const members = [
+    "Nguyễn Văn A",
+    "Trần Thị B",
+    "Lê Hoàng C",
+    "Phạm Minh D",
+    "Nguyễn Dương Quốc",
+];
+
+const list = document.getElementById("member-list");
+
+members.forEach(name => {
+    const li = document.createElement("li");
+    li.textContent = name;
+    list.appendChild(li);
+});
 
