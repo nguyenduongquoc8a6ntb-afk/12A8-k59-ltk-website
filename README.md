@@ -2,9 +2,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-
-<p style="colour:red">This is a Heading</p>
-<p>This is a paragraph.</p>
-
+<p style="color:rgb(255,0,0)"> This is a Heading</p>
 </body>
 </html>
